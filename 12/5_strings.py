@@ -10,6 +10,7 @@ print(sentence[2])
 
 #step 4
 print(sentence.upper())
+print("This is my wonderful string.".lower())
 
 #step 5 - plus a little extra
 print("name\tage")
