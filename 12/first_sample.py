@@ -61,7 +61,7 @@ age = input("Enter your age:")
 
 if age > 16 and age < 18:
     print("can vote with conditions...")
-elif age < 16:
+elif age <= 16:
     print("can't vote...")
 else:
     print("can vote...")
