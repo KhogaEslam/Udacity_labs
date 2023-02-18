@@ -1,32 +1,35 @@
-html{
+html {
     text-align: center;
 }
-body{
+
+body {
     background-color: #ccc;
 }
 
-h1{
+h1 {
     color: red;
     text-align: center;
 }
 
-img{
+img {
     border: 2px solid black;
 }
-p{
+
+p {
     font-weight: bold;
 }
 
-input{
+input {
     padding: 5px;
     margin: 5px;
 }
 
-button{
+button {
     padding: 5px;
     margin: 5px;
     width: 200px;
 }
+
 .container {
     width: 500px;
     margin-left: 400px;
